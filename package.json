@@ -1,0 +1,25 @@
+{
+    "name": "learn_node",
+    "version": "1.0.0",
+    "description": "to learn git and node",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "lite": "lite-server",
+        "test": "https://github.com/anushreejain98/fullStack_coursera"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anushreejain98/fullStack_coursera.git"
+    },
+    "author": "Anushree",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anushreejain98/fullStack_coursera/issues"
+    },
+    "homepage": "https://github.com/anushreejain98/fullStack_coursera#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
