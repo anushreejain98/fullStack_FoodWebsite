@@ -18,7 +18,11 @@
         "url": "https://github.com/anushreejain98/fullStack_coursera/issues"
     },
     "homepage": "https://github.com/anushreejain98/fullStack_coursera#readme",
-    "dependencies": {},
+    "dependencies": {
+        "bootstrap": "^4.5.0",
+        "jquery": "^3.5.1",
+        "popper.js": "^1.12.9"
+    },
     "devDependencies": {
         "lite-server": "^2.5.4"
     }
