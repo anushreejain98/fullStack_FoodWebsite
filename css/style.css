@@ -1,6 +1,4 @@
-/* css */
-
-@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
 
 /* Bootstrap social and Font awesome */
 
@@ -10,9 +8,9 @@
 /* Javascript */
 
 @import url('https://code.jquery.com/jquery-3.3.1.slim.min.js');
-@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js');
-.row-header {
+@import url('https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js');
+*/ .row-header {
     margin: 0px auto;
     padding: 0px auto;
 }
